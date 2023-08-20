@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marv</h1>
 <h3 align="center">A passionate Physicist and enthusiastic Software Developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4679749/screenshots/15934923/media/0e73ba235165bf091f3f52e4cc5af6a1.gif">
+<img align="right" alt="Coding" width="400" src="https://bestanimations.com/media/physics/15366957newtons-cradle-potential-energy-balls-animation-6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winmar42&label=Profile%20views&color=0e75b6&style=flat" alt="winmar42" /> </p>
 
